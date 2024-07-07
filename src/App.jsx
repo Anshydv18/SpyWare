@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Navbar from './Components/Navbar/Navbar'
 import HeroSwipper from './Components/HeroSwipper/HeroSwipper'
+import Footer from './Components/Footer/Footer'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -12,8 +13,7 @@ function App() {
     <>
     <Navbar/>
     <HeroSwipper/>
-    <h1 className=' bg-red-300'>hello guys</h1>
-    
+    <Footer/>
     </>
   )
 }
