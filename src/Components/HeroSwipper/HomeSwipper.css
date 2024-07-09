@@ -1,0 +1,7 @@
+
+.hollow-word {
+  /* font-size: 36px; */
+  -webkit-text-stroke: 2px gray; /* gray outline */
+  -webkit-text-stroke-width: 2px;
+   color: transparent; /* transparent fill */
+}
