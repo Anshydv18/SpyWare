@@ -12,7 +12,7 @@ function Button() {
         <span className="absolute inset-y-0 left-0 w-[2px] bg-indigo-600 transition-all group-hover:w-full group-active:bg-indigo-500"></span>
 
         <span className="relative text-sm font-medium text-indigo-600 transition-colors group-hover:text-white">
-          Download
+          Explore More
         </span>
       </a>
     </div>
